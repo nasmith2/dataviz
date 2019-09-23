@@ -17,15 +17,16 @@ I’ve created a proof of concept visualization of this data. It's a quick look 
 The following tasks and questions will drive the visualization and interaction decisions for this project:
 
 Overall, do people think technology change is good/bad and in what instances?
-Is there a corrolation between the age or age range and if people think certain aspects are good/bad?
-Does education and/or income matter?
-Does it matter where someone lives in the country? 
+<br />Is there a corrolation between the age or age range and if people think certain aspects are good/bad?
+<br />Does education and/or income matter?
+<br />Does it matter where someone lives in the country? 
 
 
 ## Sketches
 
 (insert one or more hand-drawn sketches of interactive visualizations that you imagine)
 (describe each sketch - how is the data visualized, what are the interactions, and how do these relate to the questions/tasks)
+So my plan is to take the prototype and add a couple of menus. The first menu will be a choice on putting the circles on a map of the US. With this, they would have to select what question they want to see, for example they would have to select Driverless car option to display that on the map over a different option. The other menu will change the circles based on the what is selected. If the user selects an age range, it will only show data from that age range. This will be the same for education/income. Both of these menus would be able to be selected at the same time. In other words they can look at what age rand would want to ride in a driverless car and see where in the country people say yes/no.
 
 ## Open Questions
 
