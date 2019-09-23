@@ -26,7 +26,7 @@ Overall, do people think technology change is good/bad and in what instances?
 
 Sketch 1
 
-The first sketch shows the initial start up screen. If someone selects the show on map option it will show the following:
+The first sketch shows the initial start up screen. If someone selects the show on map option it will show the following. Please note the menu will still be there, it just got cut off for showing:
 
 Sketch 2
 
