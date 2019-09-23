@@ -2,24 +2,25 @@
 
 ## Data
 
-The data I propose to visualize for my project is ...
+The data I propose to visualize for my project is about [how people think about technology change in the next 50 years](https://gist.github.com/nasmith2/f7306cec68cf23c53a77f03efe7d70c0#file-technologychangebetterorworse-csv). As technology is developing at a fast rate, understanding how people feel about the upcoming change is important to know. This data is only 5 years old but it gets important data about some of the technology changes that are currently happening. For example, it asked people if they would want to ride in a autonomous car. This is something that is being developed now and is close to being on the roads and is even on some roads in certain countries. 
+
+Another factor it asks about is how people feel about granting drones privileges to fly in the US airspace. Drones in themselves have a huge market if they continue to develop. Finding out how people feel about drones flying around can show if companies need to help promote the benifits of drones flying. The data also shows what people do not want to see in future technology changes. Interestingly enough, by looking at the data in the prototype one can find see that even though most people think that the change in technology will be for the better, most examples that were given the majority of people think they would be the change for the worse.
 
 ## Prototypes
 
-I’ve created a proof of concept visualization of this data. It's a ... and it shows ...
+I’ve created a proof of concept visualization of this data. It's a quick look at how people feel about some technology changes. Surprisingly it shows that even though the majority of people think that technology change in the next 50 years will be for the better. Servel of the asked topics people think would be bad changes.
 
-[![image](https://user-images.githubusercontent.com/68416/65240758-9ef6c980-daff-11e9-9ffa-e35fc62683d2.png)](https://beta.vizhub.com/curran/eab039ad1765433cb51aad167d9deae4)
-
-(please put a screenshot of one or more visualizations of this dataset you already made, for previous assignments)
+[![image](https://user-images.githubusercontent.com/44979955/65468969-be5d6180-de33-11e9-8294-8d729279eb3c.png)](https://beta.vizhub.com/nasmith2/e8a30536332547e3b6ed670a2c9437d6)
 
 ## Questions & Tasks
 
 The following tasks and questions will drive the visualization and interaction decisions for this project:
 
- * (insert your question or task here) How does the X vary over time?
- * (insert your question or task here) Is there any correlation between X and Y?
- * (insert your question or task here) Are there interesting spatial patterns in X?
- * (insert your question or task here) How many X are there across different Y?
+Overall, do people think technology change is good/bad and in what instances?
+Is there a corrolation between the age or age range and if people think certain aspects are good/bad?
+Does education and/or income matter?
+Does it matter where someone lives in the country? 
+
 
 ## Sketches
 
@@ -28,4 +29,6 @@ The following tasks and questions will drive the visualization and interaction d
 
 ## Open Questions
 
-(describe any fear, uncertainty, or doubt you’re having about the feasibility of implementing the sketched system. For example, “I’m not sure where to get the geographic shapes to build a map from this data” or “I don’t know how to resolve the codes to meaningful names” … Feel free to delete this section if you’re confident.)
+I am uncertain on what should be the age ranges that are looked at.
+
+The dataset has a ton of information that is uncertain. For example, it has columns that represent census region and state but the data in the rows are numbers. I am not sure if I can find what number represents something. 
