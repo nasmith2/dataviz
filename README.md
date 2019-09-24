@@ -27,9 +27,10 @@ Overall, do people think technology change is good/bad and in what instances?
 Sketch 1
 ![image](https://user-images.githubusercontent.com/44979955/65471628-db972d80-de3d-11e9-8181-a6231255d5f5.png)
 
-The first sketch shows the initial start up screen. If someone selects the show on map option it will show the following. Please note the menu will still be there, it just got cut off for showing:
+The first sketch shows the initial start up screen. If someone selects the show on map option it will show the following:
 
 Sketch 2 is suposed to show a pie chart per region
+![image](https://user-images.githubusercontent.com/44979955/65471692-1d27d880-de3e-11e9-9d48-2026760c4ed5.png)
 
 So my plan is to take the prototype and add a couple of menus. The first menu will be a choice on putting the circles on a map of the US. With this, they would have to select what question they want to see, for example they would have to select Driverless car option to display that on the map over a different option. The other menu will change the circles based on the what is selected. If the user selects an age range, it will only show data from that age range. This will be the same for education/income. Both of these menus would be able to be selected at the same time. In other words they can look at what age rand would want to ride in a driverless car and see where in the country people say yes/no.
 
