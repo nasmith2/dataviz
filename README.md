@@ -20,7 +20,7 @@ Overall, do people think technology change is good/bad and in what instances?
 <br />Is there a corrolation between the age or age range and if people think certain aspects are good/bad?
 <br />Does education and/or income matter?
 <br />Does it matter where someone lives in the country? 
-
+<br /> Task: If a user clicks on a section of the center pie graph, it will change the other pie graphs to only use that data. For example if a user clicks on the green section (for the better) all the surrounding pie charts will change to only use the data from the people who think it is for the better. It will also change the center circle by fading out the other sections to highlight the selected section. 
 
 ## Sketches
 
