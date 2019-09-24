@@ -37,5 +37,5 @@ So my plan is to take the prototype and add a couple of menus. The first menu wi
 ## Open Questions
 
 I am uncertain on what should be the age ranges that are looked at.
-
-The dataset has a ton of information that is uncertain. For example, it has columns that represent census region and state but the data in the rows are numbers. I am not sure if I can find what number represents something. 
+<br />Is there an easy way to accomplish the task that I want to do? To see if the cursor is over a certain data and then use that data?
+<br />The dataset has a ton of information that is uncertain. For example, it has columns that represent census region and state but the data in the rows are numbers. I am not sure if I can find what number represents something. 
