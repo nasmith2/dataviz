@@ -25,6 +25,7 @@ Overall, do people think technology change is good/bad and in what instances?
 ## Sketches
 
 Sketch 1
+![image](https://user-images.githubusercontent.com/44979955/65471628-db972d80-de3d-11e9-8181-a6231255d5f5.png)
 
 The first sketch shows the initial start up screen. If someone selects the show on map option it will show the following. Please note the menu will still be there, it just got cut off for showing:
 
