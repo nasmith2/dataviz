@@ -28,7 +28,7 @@ Sketch 1
 
 The first sketch shows the initial start up screen. If someone selects the show on map option it will show the following. Please note the menu will still be there, it just got cut off for showing:
 
-Sketch 2
+Sketch 2 is suposed to show a pie chart per region
 
 So my plan is to take the prototype and add a couple of menus. The first menu will be a choice on putting the circles on a map of the US. With this, they would have to select what question they want to see, for example they would have to select Driverless car option to display that on the map over a different option. The other menu will change the circles based on the what is selected. If the user selects an age range, it will only show data from that age range. This will be the same for education/income. Both of these menus would be able to be selected at the same time. In other words they can look at what age rand would want to ride in a driverless car and see where in the country people say yes/no.
 
