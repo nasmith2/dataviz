@@ -39,7 +39,7 @@ So, my plan is to take the prototype and add a couple of menus. The first menu w
 **Week 1**: 10/2 -> 10/9
   * -[x] Find what census regions each entry belongs to
   * -[ ] Modify dataset to say words, that represent the numbers, instead of numbers. Example: instead of using state = 1 change it so state = Alabama 
-  * -[ ] Create the interactive feature that allows the user to select data to use from center chart. See task in Questions & Tasks section for more information.
+  * -[ ] Create the interactive feature that allows the user to select data to use from center chart. See task in ![Questions & Tasks](https://github.com/nasmith2/dataviz#questions--tasks) section for more information.
   * -[ ] Add additional charts
     * -[ ] Get brain implants to improve your memory or mental capacity
     * -[ ] Eat meat that was grown in a lab
