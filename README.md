@@ -58,3 +58,6 @@ So, my plan is to take the prototype and add a couple of menus. The first menu w
 
 **Week 4** 10/23 -> 10/30
   * -[ ] Clean up. Make the code and graphs more appealing if needed. Will try to do as much as possible as I go.
+    * -[ ] Fix the moving color glitch
+    * -[ ] Fix so the map completely shows
+    * -[ ] Try to see if individual states can be colored
