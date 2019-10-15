@@ -46,7 +46,7 @@ So, my plan is to take the prototype and add a couple of menus. The first menu w
     * -[x] Eat meat that was grown in a lab
   
 **Week 2** 10/9 -> 10/16. I believe this one might take longer
-  * -[ ] Implement a menu that switches between a map view and the default view  (no map)
+  * -[x] Implement a menu that switches between a map view and the default view  (no map)
     * -[ ] Put the charts on the graph in the four regions (something similar to sketch 2)
     * -[ ] Add a menu that shows what graph should be shown in each section. The options would be one of the six on the default page.
 
