@@ -48,7 +48,7 @@ So, my plan is to take the prototype and add a couple of menus. The first menu w
 **Week 2** 10/9 -> 10/16. I believe this one might take longer
   * -[x] Implement a menu that switches between a map view and the default view  (no map)
     * -[x] Put the charts on the graph in the four regions (something similar to sketch 2)
-    * -[ ] Add a menu that shows what graph should be shown in each section. The options would be one of the six on the default page.
+    * -[x] Add a menu that shows what graph should be shown in each section. The options would be one of the six on the default page.
 
 **Week 3** 10/16 -> 10/23
   * -[ ] Add a menu that allows the user select between age, income, education. This menu should be able to be used on both the default and map view.
