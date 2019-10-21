@@ -51,13 +51,14 @@ So, my plan is to take the prototype and add a couple of menus. The first menu w
     * -[x] Add a menu that shows what graph should be shown in each section. The options would be one of the six on the default page.
 
 **Week 3** 10/16 -> 10/23
-* -[ ] Fix issues
+ * -[ ] Add a additional menus if possible
+    * possible menues: 
+    * Age: Does not seem to matter what age people are
+    * Income Range: Cannot seem to find what income ranges where used in the census
+    * Education: Again, cannont seem to fine what the education values were used
+    
+**Week 4** 10/23 -> 10/30
+ * -[ ] Fix issues
     * -[ ] Fix the moving color glitch
     * -[ ] Fix so the map completely shows
     * -[x] Try to see if individual states can be colored
-
-**Week 4** 10/23 -> 10/30
-  * -[ ] Add a menu that allows the user select between age, income, education. This menu should be able to be used on both the default and map view.
-    * -[ ] Add a feature to allow the user to put in the age range
-    * -[ ] Add the income ranges
-    * -[ ] Add the education ranges
