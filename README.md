@@ -54,7 +54,7 @@ So, my plan is to take the prototype and add a couple of menus. The first menu w
 * -[ ] Fix issues
     * -[ ] Fix the moving color glitch
     * -[ ] Fix so the map completely shows
-    * -[ ] Try to see if individual states can be colored
+    * -[x] Try to see if individual states can be colored
 
 **Week 4** 10/23 -> 10/30
   * -[ ] Add a menu that allows the user select between age, income, education. This menu should be able to be used on both the default and map view.
