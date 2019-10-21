@@ -51,7 +51,7 @@ So, my plan is to take the prototype and add a couple of menus. The first menu w
     * -[x] Add a menu that shows what graph should be shown in each section. The options would be one of the six on the default page.
 
 **Week 3** 10/16 -> 10/23
-* -[ ] Clean up. Make the code and graphs more appealing if needed. Will try to do as much as possible as I go.
+* -[ ] Fix issues
     * -[ ] Fix the moving color glitch
     * -[ ] Fix so the map completely shows
     * -[ ] Try to see if individual states can be colored
