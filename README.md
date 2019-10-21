@@ -52,7 +52,7 @@ So, my plan is to take the prototype and add a couple of menus. The first menu w
 
 **Week 3** 10/16 -> 10/23
  * -[ ] Add a additional menus if possible
-    * possible menues: 
+    Possible menues: 
     * Age: Does not seem to matter what age people are
     * Income Range: Cannot seem to find what income ranges where used in the census
     * Education: Again, cannont seem to fine what the education values were used
