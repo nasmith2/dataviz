@@ -60,5 +60,5 @@ So, my plan is to take the prototype and add a couple of menus. The first menu w
 **Week 4** 10/23 -> 10/30
  * -[ ] Fix issues
     * -[ ] Fix the moving color glitch - cause => the resorting of the data after it changes
-    * -[ ] Fix so the map completely shows
+    * -[x] Fix so the map completely shows
     * -[x] Try to see if individual states can be colored
