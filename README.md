@@ -1,20 +1,20 @@
 # Data Visualization Projects
 
-## Smiley Face with Glasses
+## [Smiley Face with Glasses](https://beta.vizhub.com/nasmith2/e4004c61dcee44e2be50cb30dacd6c8f)
 
-The [smiley face project](https://beta.vizhub.com/nasmith2/e4004c61dcee44e2be50cb30dacd6c8f) was the first project for the class. It was an introduction on the capabilities of visualization and how to use the program. As with most classes, the base that was made from this project, at what was learned during the project is what was used throughout the class. It was a great introduction into the class and the capabilities on the possibilities of the class.  
+The smiley face project was the first project for the class. It was an introduction on the capabilities of visualization and how to use the program. As with most classes, the base that was made from this project, at what was learned during the project is what was used throughout the class. It was a great introduction into the class and the capabilities on the possibilities of the class.  
 
 ![image](https://user-images.githubusercontent.com/44979955/67593325-f48e4980-f72f-11e9-9ace-54462d875c63.png)
 
-## Etch-A-Sketch
+## [Etch-A-Sketch](https://beta.vizhub.com/nasmith2/609cd1310ff349d5bbe146371d03dbd7)
 
-The second project that I did for the class was a simple [Etch-A-Sketch](https://beta.vizhub.com/nasmith2/609cd1310ff349d5bbe146371d03dbd7). This was a great learning experience that taught me many features that can be implemented into a visualization project. This project contained keyboard interaction, color switching, and size manipulation. The other benefit of the project is that it allows for people to create their own visualizations from my visualization. Many great things have been drawn from an Etch-A-Sketch and to me it is a old technology that will be around for a while. 
+The second project that I did for the class was a simple Etch-A-Sketch. This was a great learning experience that taught me many features that can be implemented into a visualization project. This project contained keyboard interaction, color switching, and size manipulation. The other benefit of the project is that it allows for people to create their own visualizations from my visualization. Many great things have been drawn from an Etch-A-Sketch and to me it is a old technology that will be around for a while. 
 
 While, this visualization is great, there can be several improvements that can make it even better. For example, one can add a feature to allow the user to use more than one line and each line can work independently with different colors and sizes. This will allow for more complex and creative drawings to be made.
 
 ![image](https://user-images.githubusercontent.com/44979955/67592040-bcd1d280-f72c-11e9-9212-8b49e6a81c42.png)
 
-## What People Think of Technology Change in the next 50 Years
+## [What People Think of Technology Change in the next 50 Years](https://beta.vizhub.com/nasmith2/ae04f2ca35684d8c901de76fa63f9eb4)
 
 This was the last project that I did for the class. This was a large project tat encompassed what we have learned throughout the class along with what I can come up with. This project had potential to start with and still has potential for future work.
 
